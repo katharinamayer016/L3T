@@ -15,7 +15,11 @@
 
 - Ally, M. (2009). Mobile learning – Transforming the delivery of education and training, Athabasca (Kanada): Athabasca University Press.
 
+- Anderson, T. & Dron, J. (2011). Three generations of distance education pedagogy. In: International Review of Research in Open and Distributed Learning, 12 (3), 80–97.
+
 - Attwell, G. (2007). Personal Learning Environments – the future of eLearning?. In: eLearning Papers, 2(1).
+
+- Bates, T. (2019). Teaching in a Digital Age (2nd ed.). Vancouver: Tony Bates Associates Ltd.
 
 - Battenberg, R. W. (1971). The Boston Gazette, March 20, 1728. In: Epistolodidaktika, 1, 44-45.
 
@@ -27,7 +31,11 @@
 
 - Brown, T. (2004). The role of m-learning in the future of e-learning in Africa. In: D. Murphy; R. Carr; J. Taylor & W. Tat-meng (Hrsg.), Distance education and technology: issues and practice, Hongkong: Open University of Hong Kong Press, 197-216.
 
+- Clark, D. (2013). MOOCs: taxonomy of online courses. In: Donald Clark Plan B (Blog). URL: http://donaldclarkplanb.blogspot.com [2020-01-10].
+
 - Daniel, J. (1998). Can you get my hard nose in focus? Universities, mass education and appropriate technology. In: M. Eisenstadt & T. Vincent (Hrsg.), The Knowledge Web – Learning and Collaborating on the Net, London: Kogan Page, 21-29.
+
+- Daniel, S. J. (2020). Education and the COVID-19 pandemic. In: Prospects, 49, 91–96.
 
 - Delling, R. M. (1992). Zur Geschichte des Fernstudiums – Eine Ausstellung des Deutschen Instituts für Fernstudien an der Universität Tübingen vom 15. Juni bis 11. Juli 1992. Tübingen: DIFF.
 
@@ -39,11 +47,19 @@
 
 - Harasim, L.; Hiltz, S. R.; Teles, L. & Turoff, M. (1995). Learning Networks: A Field Guide to Teaching and Learning Online. Cambridge: MIT Press.
 
+- Hodges, C.; Moore, S.; Lockee, B.; Trust, T. & Bond, A. (2020). The difference between emergency remote teaching and online learning. EDUCAUSE Review. URL: https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning [2020-04-10].
+
+- Holmes, W.; Bialik, M. & Fadel, C. (2019). Artificial Intelligence in Education: Promises and Implications for Teaching and Learning. Boston: Center for Curriculum Redesign.
+
+- Johnson, L.; Adams Becker, S.; Estrada, V. & Freeman, A. (2015). NMC Horizon Report: 2015 Higher Education Edition. Austin: The New Media Consortium.
+
 - Keegan, D. (2005). The incorporation of mobile learning into mainstream education and training. In: World Conference on Mobile Learning, Cape Town.
 
 - Kirkwood, A. (1998). New media mania: Can information and communication technologies enhance the quality of open and distance learning?.In: Distance Education, 19 (2), 228-241.
 
 - Kukulska-Hulme, A. & Traxler, J. (2005). Mobile learning – a handbook for educators and trainers. London: Routledge.
+
+- Luckin, R. (2018). Machine Learning and Human Intelligence: The Future of Education for the 21st Century. London: UCL IOE Press.
 
 - Marginson, S. (1993). Education and public policy in Australia. Cambridge: Cambridge University Press.
 
@@ -61,9 +77,13 @@
 
 - Rollett, H.; Lux, M.; Strohmaier, M.; Dosinger, G. & Tochtermann, K. (2007). The Web 2.0 way of learning with technologies. In: International Journal of Learning Technology, 3 (1), 87-107.
 
+- Rollett, H. et al. (2007). The Web 2.0 way of learning with technologies. In: International Journal of Instructional Technology and Distance Learning, 4(11), 97.
+
 - Ryan, Y. (2001). The provision of learner support services online. In: G. Farrel (Hrsg.), The changing faces of virtual education, Vancouver (Kanada): The Commonwealth of Learning, 71-94.
 
 - Schaffert, S. & Kalz, M. (2008). Persönliche Lernumgebungen: Grundlagen, Möglichkeiten und Herausforderungen eines neuen Konzeptes. In: K. Wilbers & A. Hohenstein (Hrsg.), Handbuch E-Learning, Cologne, Deutschland: Deutscher Wirtschaftsdienst, 1-24.
+
+- Schaffert, S. & Kalz, M. (2009). Personal Learning Environments: Grundlagen und Konzepte.
 
 - Schulmeister, R. (1999). Virtuelle Universitäten aus didaktischer Sicht. In: Das Hochschulwesen – Forum für Hochschulforschung, -praxis und -politik, (6), 166-174.
 
@@ -75,11 +95,15 @@
 
 - Turoff, M. (1995). Designing a Virtual Classroom \[TM]. Hsinchu, Taiwan.
 
+- UNESCO (2020). Education in a post-COVID world: Nine ideas for public action. Paris: UNESCO.
+
 - Vogt, S. (2005). Das Internet – Technologien, Medienprodukte und Konvergenzen im Überblick. In: H. Krömker & P. Klimsa (Hrsg.), Handbuch Medienproduktion. Produktion von Film, Fernsehen, Hörfunk, Print, Internet, Mobilfunk und Musik, Wiesbaden: VS, Verlag für Sozialwissenschaften, 437-465.
 
 - Wolling, J. (2009). Individualisierung der Mediennutzung: Perspektiven der Forschung. In: H. Schade; H. Walterscheid & J. Wolling (Hrsg.), Individualisierte Nutzung der Medien: Tagungsband Medienforum Ilmenau 2008; Technische Universität Ilmenau, 20. - 21. Juni 2008, Ilmenau: Universitäts-Verlag Ilmenau, 7-18.
 
 - Zawacki-Richter, O. (2004). Support im Online Studium – Die Entstehung eines neuen pädagogischen Aktivitätsfeldes. Innsbruck: StudienVerlag.
+
+- Zawacki-Richter, O. et al. (2009). Mobile Learning in distance education.
 
 - Zawacki-Richter, O. (2011). E-Learning und Fernstudium an Hochschulen – Editorial. Zeitschrift für E-Learning, Lernkultur und Bildungstechnologie, 6 (1), 4-6.
 
@@ -88,3 +112,5 @@
 - Zawacki-Richter, O.; Brown, T. & Delport, R. (2009). Mobile learning: From single project status into the mainstream?. In: European Journal of Open, Distance and E-Learning. URL: [http://www.eurodl.org/index.php?article=357](http://www.eurodl.org/index.php?article=357) \[2010-07-28].
 
 - Zawacki-Richter, O.; Bäcker, E. M. & Bartmann, S. (2010). „Lernen in beweglichen Horizonten...“: Internationalisierung und interkulturelle Aspekte des E-Learning. In: K. Wilbers & A. Hohenstein (Hrsg.), Handbuch E-Learning, 32. Ergänzungslieferung, 1-20.
+
+- Zawacki-Richter, O. & Naidu, S. (2016). Mapping research trends from 2000 to 2013 in open, distance and e-learning: A bibliometric analysis of the literature. In: International Review of Research in Open and Distributed Learning, 17 (2), 1–27.
